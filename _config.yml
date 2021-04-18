@@ -1,5 +1,9 @@
 title: Computational imaging
 theme: jekyll-theme-cayman
 github:
+  home: https://captvonsciencypants.github.io/computational-imaging-website/
+  research: https://captvonsciencypants.github.io/computational-imaging-website/research.html
+  people: https://captvonsciencypants.github.io/computational-imaging-website/people.html
   publications: https://captvonsciencypants.github.io/computational-imaging-website/publications.html
-  google: www.google.co.nz
+  software: https://captvonsciencypants.github.io/computational-imaging-website/software.html
+  teaching: https://captvonsciencypants.github.io/computational-imaging-website/teaching.html
