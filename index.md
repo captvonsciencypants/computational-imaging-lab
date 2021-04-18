@@ -1,20 +1,20 @@
 ## Welcome
 
-Hello! Welcome to our computational imaging lab, thanks for visiting.
+Hello! Welcome to the website for our computational imaging lab, thanks for visiting.
 <br>
-We work on imaging tiny objects using the computer as a lens.
 <br>
-The tiny objects we are interested in include:
+We work on imaging tiny objects using the computer as a lens. These tiny objects include:
 * Proteins
 * Viruses
 * Nanoparticles
 
-with the goal of 
+Our ultimate goal of visualising these objects is to help cure diseases, engineer a more sustainable future, and to better understand nature itself.
 
 We mainly use Python
 ```python
 print('hello world')
 ```
+
 
 
 Check out our 
