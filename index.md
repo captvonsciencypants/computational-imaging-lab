@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to the computational imaging lab
 
-Hello! [research](research.md)
+Hello! Thanks for visiting.
+<br>
+We work on imaging objects on the scale of nanometres using the computer as a lens.
+
+
+
+
+[research](research.md)
 [publications](publications.md)
 
 You can use the [editor on GitHub](https://github.com/captvonsciencypants/mywebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
