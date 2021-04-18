@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Research"
+theme: jekyll-theme-cayman
 permalink: /research/
 ---
 
