@@ -1,6 +1,6 @@
 ## Welcome
 
-Hello! Welcome to my computational imaging lab, thanks for visiting.
+Hello! Welcome to our computational imaging lab, thanks for visiting.
 <br>
 We work on imaging tiny objects using the computer as a lens.
 <br>
