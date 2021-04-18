@@ -20,6 +20,8 @@ Intensities between Bragg peaks can also arise from the deviation of a crystal's
 ## Phase retrieval algorithms
 One of the main algorithms we use are called "iterative projection algorithms." These are dynamical systems that are able to find solutions to inverse problems. Phase retrieval is an example of an inverse problem which involves recovering the Fourier phases from the Fourier magnitudes. We design algorithms to solve variations on the basic phase retrieval problem.
 
+![Alt text](figs/res_algo.png "Flow diagram of a phase retrieval algorithm that we designed that could reconstruct from the incoherently summed diffracted intensities of multiple clusters of objects.")
+
 **Background reading**
 <br>
 [1] Lo, Millane. ""
