@@ -1,19 +1,21 @@
 # Research
 
-We develop new algorithms and computational methods to process and analyse X-ray diffraction data collected at an X-ray free-electron laser. The goal is to extract meaningful information from the data to elucidate the structure of biological molecules such as proteins and viruses.
+We develop new algorithms and computational methods to process and analyse X-ray diffraction data. The goal is to extract meaningful information from the data to improve our understanding of the structures of biological molecules such as proteins and viruses.
 
 ## Shape-transform phasing
-<img align="right" src="figs/res_stp.png" width="400">
+<img align="right" src="figs/res_stp.png" width="300">
+
+The recent development of a new type of X-ray source called the X-ray free-electron laser (XFEL) provides X-rays with unprecedented brightness, coherence and short duration pulses. These unique properties of XFELs have allowed very small crystals to be used, resulting in new measurable signals from the coherent illumination of the entire crystal. The extra signals enable the possibility of determining the structure of the molecules directly from the diffracted intensities.
 
 ## Phasing from crystal defects
-<img align="right" src="figs/res_crystdisorder.png" width="400">
+<img align="right" src="figs/res_crystdisorder.png" width="300">
 
 Intensities between Bragg peaks can also arise from the deviation of a crystal's unit packing from their ideal lattice sites.
 
 
 
 ## Single particle imaging
-<img align="right" src="figs/res_spi.png" width="400">
+<img align="right" src="figs/res_spi.png" width="300">
 
 We are also interested in combining single particle X-ray data with data from other modalities such as electron and optics to investigate techniques for multi-modal imaging.
 
