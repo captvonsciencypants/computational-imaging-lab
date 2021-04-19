@@ -3,7 +3,7 @@
 We develop new algorithms and computational methods to process and analyse X-ray diffraction data collected at an X-ray free-electron laser. The goal is to extract meaningful information from the data to elucidate the structure of biological molecules such as proteins and viruses.
 
 ## Shape-transform phasing
-
+<img align="right" src="figs/res_stp.png" width="400">
 
 ## Phasing from crystal defects
 Intensities between Bragg peaks can also arise from the deviation of a crystal's unit packing from their ideal lattice sites.
@@ -11,6 +11,7 @@ Intensities between Bragg peaks can also arise from the deviation of a crystal's
 
 
 ## Single particle imaging
+<img align="right" src="figs/res_spi_2.png" width="400">
 
 We are also interested in combining single particle X-ray data with data from other modalities such as electron and optics to investigate techniques for multi-modal imaging.
 
@@ -22,7 +23,7 @@ One of the main algorithms we use are called "iterative projection algorithms." 
 
 **Background reading**
 <br>
-[1] Marchesini. "Invited Article: A unified evaluation of iterative projection algorithms for phase retrieval" _Review of Scientific Instruments_ **78**, 011301 (2007).
+[1] Marchesini. "A unified evaluation of iterative projection algorithms for phase retrieval" _Review of Scientific Instruments_ **78**, 011301 (2007).
 <br>
 [2] Elser, Rankenburg, and Thibault. "Searching with iterated maps". _PNAS_, **104**, 418-423 (2007).
 <br>
