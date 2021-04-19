@@ -6,7 +6,7 @@ My expertise and interest is in physics and programming and some of the resource
 ---
 
 # Jupyter Notebooks
-Some illustratively inventive inspirational ipython notebooks are maintained here.
+Some illustratively inventive ipython notebooks are maintained here.
 These notebooks were initiated when I was helping to organise the [Prickly Python](http://prickly-pythons.github.io/) meetings at Arizona State University where anyone interested can come along and learn about physics and Python.
 
 ## Python basics
@@ -27,4 +27,3 @@ A sample is shown below.
 The full series can be found here.
 
 
----
