@@ -2,21 +2,23 @@
 
 We develop new algorithms and computational methods to process and analyse X-ray diffraction data. The goal is to extract meaningful information from the data to improve our understanding of the structures of biological molecules such as proteins and viruses.
 
+---
+
 ## Shape-transform phasing
 <img align="right" src="figs/res_stp.png" width="300">
 
 The recent development of a new type of X-ray source called the X-ray free-electron laser (XFEL) provides X-rays with unprecedented brightness, coherence and short duration pulses. These unique properties of XFELs have allowed very small crystals to be used, resulting in new measurable signals from the coherent illumination of the entire crystal. The extra signals enable the possibility of determining the structure of the molecules directly from the diffracted intensities.
 
 **Background Reading**
-1. Chen, Spence and Millane. Acta Cryst. A, 70, 143–153 (2014).
-2. Kirian, Bean, Beyerlein, et al., Phys. Rev. X, 5, 011015 (2015).
-3. Elser, Acta Cryst. A, 69, 559–569 (2013).
+1. Elser, Acta Cryst. A, 69, 559–569 (2013).
+2. Chen, Spence and Millane. Acta Cryst. A, 70, 143–153 (2014).
+3. Kirian, Bean, Beyerlein, et al., Phys. Rev. X, 5, 011015 (2015).
 4. Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
 
 ---
 
 ## Phasing from crystal defects
-<img align="right" src="figs/res_crystdisorder.png" width="250">
+<img align="left" src="figs/res_crystdisorder.png" width="250">
 
 Useful diffraction signals can also arise due to deviations from an ideal crystal lattice. These deviations include things such as translational disoder, substitutional disorder, and stacking faults. We are interested in developing algorithms that utilise these defects to reconstruct the molecule and recover statistical information about those defects.
 
@@ -44,7 +46,7 @@ We are also interested in combining single particle X-ray data with data from ot
 ---
 
 ## Constraint satisfaction algorithms
-<img align="right" src="figs/res_algo.png" width="400">
+<img align="left" src="figs/res_algo.png" width="400">
 
 One of the main algorithms we use are called "iterative projection algorithms." These are dynamical systems that are able to find solutions to problems that can be formulated as multiple constraints. Phase retrieval is an example of a constraint satisfaction problem where the constraint in Fourier space is the measured Fourier magnitudes and the constraint in real-space are information about the object such as the fact that it is finite. We design algorithms, on paper and in the computer, to solve variations on the basic phase retrieval problem. We are also interested in other related challenges such as packing problems, and other constraint satisfaction problems.
 
