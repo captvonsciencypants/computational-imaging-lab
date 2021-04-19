@@ -17,7 +17,7 @@ The recent development of a new type of X-ray source called the X-ray free-elect
 <br>
 [4] Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
 
-
+---
 
 ## Phasing from crystal defects
 <img align="right" src="figs/res_crystdisorder.png" width="250">
@@ -32,6 +32,7 @@ Useful diffraction signals can also arise due to deviations from an ideal crysta
 <br>
 [3] Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
 
+---
 
 ## Single particle imaging
 <img align="right" src="figs/res_spi.png" width="250">
@@ -41,6 +42,7 @@ We would like to investigate and develop algorithms that are able to solve some,
 
 We are also interested in combining single particle X-ray data with data from other imaging modalities such as electron and optics to try and build synergistic techniques for an integrative, multi-modal imaging framework.
 
+---
 
 **Background Reading**
 <br>
@@ -52,7 +54,7 @@ We are also interested in combining single particle X-ray data with data from ot
 <br>
 [4] Ayyer, Optica 7, 593–601 (2020).
 
-
+---
 
 ## Constraint satisfaction algorithms
 <img align="right" src="figs/res_algo.png" width="400">
