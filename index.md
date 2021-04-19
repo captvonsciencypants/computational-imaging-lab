@@ -1,4 +1,4 @@
-## Welcome
+# Welcome
 
 Hello! Welcome to the website for our computational imaging laboratory, thanks for visiting.
 <br>
@@ -25,5 +25,9 @@ print('hello world')
 Check out our 
 [research](research.md) page for more details.
 [publications](publications.md)
+
+
+# Funding 
+Our work is supported by 
 
 
