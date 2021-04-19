@@ -20,7 +20,7 @@ The recent development of a new type of X-ray source called the X-ray free-elect
 
 
 ## Phasing from crystal defects
-<img align="right" src="figs/res_crystdisorder.png" width="300">
+<img align="right" src="figs/res_crystdisorder.png" width="250">
 
 Useful diffraction signals can also arise due to deviations from an ideal crystal lattice. These deviations include things such as translational disoder, substitutional disorder, and stacking faults. We are interested in developing algorithms that utilise these defects to reconstruct the molecule and recover statistical information about those defects.
 
@@ -34,7 +34,7 @@ Useful diffraction signals can also arise due to deviations from an ideal crysta
 
 
 ## Single particle imaging
-<img align="right" src="figs/res_spi.png" width="300">
+<img align="right" src="figs/res_spi.png" width="250">
 
 We are also interested in combining single particle X-ray data with data from other modalities such as electron and optics to investigate techniques for multi-modal imaging.
 
@@ -48,17 +48,6 @@ We are also interested in combining single particle X-ray data with data from ot
 [3] Donatelli, Sethian and Zwart, PNAS, 114, 7222–7227 (2017).
 <br>
 [4] Ayyer, Optica 7, 593–601 (2020).
-
-
-
-
-**Background Reading**
-<br>
-[1] Ayyer, Yefanov Oberthür, et al. "Macromolecular Imaging with Imperfect Crystals", Nature 530 (7589), 202 (2016).
-<br>
-[2] Morgan, Ayyer, Barty, et al., Acta Cryst. A, 75, 25–40 (2019).
-<br>
-[3] Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
 
 
 
