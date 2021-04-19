@@ -8,14 +8,10 @@ We develop new algorithms and computational methods to process and analyse X-ray
 The recent development of a new type of X-ray source called the X-ray free-electron laser (XFEL) provides X-rays with unprecedented brightness, coherence and short duration pulses. These unique properties of XFELs have allowed very small crystals to be used, resulting in new measurable signals from the coherent illumination of the entire crystal. The extra signals enable the possibility of determining the structure of the molecules directly from the diffracted intensities.
 
 **Background Reading**
-<br>
-[1] Chen, Spence and Millane. Acta Cryst. A, 70, 143–153 (2014).
-<br>
-[2] Kirian, Bean, Beyerlein, et al., Phys. Rev. X, 5, 011015 (2015).
-<br>
-[3] Elser, Acta Cryst. A, 69, 559–569 (2013).
-<br>
-[4] Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
+1. Chen, Spence and Millane. Acta Cryst. A, 70, 143–153 (2014).
+2. Kirian, Bean, Beyerlein, et al., Phys. Rev. X, 5, 011015 (2015).
+3. Elser, Acta Cryst. A, 69, 559–569 (2013).
+4. Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
 
 ---
 
@@ -25,12 +21,9 @@ The recent development of a new type of X-ray source called the X-ray free-elect
 Useful diffraction signals can also arise due to deviations from an ideal crystal lattice. These deviations include things such as translational disoder, substitutional disorder, and stacking faults. We are interested in developing algorithms that utilise these defects to reconstruct the molecule and recover statistical information about those defects.
 
 **Background Reading**
-<br>
-[1] Ayyer, Yefanov Oberthür, et al. "Macromolecular Imaging with Imperfect Crystals", Nature 530 (7589), 202 (2016).
-<br>
-[2] Morgan, Ayyer, Barty, et al., Acta Cryst. A, 75, 25–40 (2019).
-<br>
-[3] Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
+1. Ayyer, Yefanov Oberthür, et al. "Macromolecular Imaging with Imperfect Crystals", Nature 530 (7589), 202 (2016).
+2. Morgan, Ayyer, Barty, et al., Acta Cryst. A, 75, 25–40 (2019).
+3. Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
 
 ---
 
@@ -42,17 +35,11 @@ We would like to investigate and develop algorithms that are able to solve some,
 
 We are also interested in combining single particle X-ray data with data from other imaging modalities such as electron and optics to try and build synergistic techniques for an integrative, multi-modal imaging framework.
 
----
-
 **Background Reading**
-<br>
-[1] Loh and Elser, Phys. Rev. E, 80, 026705 (2009).
-<br>
-[2] Ekeberg, Svenda, Abergel et al., Phys. Rev. Lett., 114, 098102 (2015).
-<br>
-[3] Donatelli, Sethian and Zwart, PNAS, 114, 7222–7227 (2017).
-<br>
-[4] Ayyer, Optica 7, 593–601 (2020).
+1. Loh and Elser, Phys. Rev. E, 80, 026705 (2009).
+2. Ekeberg, Svenda, Abergel et al., Phys. Rev. Lett., 114, 098102 (2015).
+3. Donatelli, Sethian and Zwart, PNAS, 114, 7222–7227 (2017).
+4. Ayyer, Optica 7, 593–601 (2020).
 
 ---
 
