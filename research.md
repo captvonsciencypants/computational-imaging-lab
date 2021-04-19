@@ -7,11 +7,30 @@ We develop new algorithms and computational methods to process and analyse X-ray
 
 The recent development of a new type of X-ray source called the X-ray free-electron laser (XFEL) provides X-rays with unprecedented brightness, coherence and short duration pulses. These unique properties of XFELs have allowed very small crystals to be used, resulting in new measurable signals from the coherent illumination of the entire crystal. The extra signals enable the possibility of determining the structure of the molecules directly from the diffracted intensities.
 
+**Background Reading**
+<br>
+[1] Chen, Spence and Millane. Acta Cryst. A, 70, 143–153 (2014).
+<br>
+[2] Kirian, Bean, Beyerlein, et al., Phys. Rev. X, 5, 011015 (2015).
+<br>
+[3] Elser, Acta Cryst. A, 69, 559–569 (2013).
+<br>
+[4] Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
+
+
+
 ## Phasing from crystal defects
 <img align="right" src="figs/res_crystdisorder.png" width="300">
 
-Intensities between Bragg peaks can also arise from the deviation of a crystal's unit packing from their ideal lattice sites.
+Useful diffraction signals can also arise due to deviations from an ideal crystal lattice. These deviations include things such as translational disoder, substitutional disorder, and stacking faults. We are interested in developing algorithms that utilise these defects to reconstruct the molecule and recover statistical information about those defects.
 
+**Background Reading**
+<br>
+[1] Ayyer, Yefanov Oberthür, et al. "Macromolecular Imaging with Imperfect Crystals", Nature 530 (7589), 202 (2016).
+<br>
+[2] Morgan, Ayyer, Barty, et al., Acta Cryst. A, 75, 25–40 (2019).
+<br>
+[3] Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
 
 
 ## Single particle imaging
@@ -20,12 +39,35 @@ Intensities between Bragg peaks can also arise from the deviation of a crystal's
 We are also interested in combining single particle X-ray data with data from other modalities such as electron and optics to investigate techniques for multi-modal imaging.
 
 
+**Background Reading**
+<br>
+[1] Loh and Elser, Phys. Rev. E, 80, 026705 (2009).
+<br>
+[2] Ekeberg, Svenda, Abergel et al., Phys. Rev. Lett., 114, 098102 (2015).
+<br>
+[3] Donatelli, Sethian and Zwart, PNAS, 114, 7222–7227 (2017).
+<br>
+[4] Ayyer, Optica 7, 593–601 (2020).
+
+
+
+
+**Background Reading**
+<br>
+[1] Ayyer, Yefanov Oberthür, et al. "Macromolecular Imaging with Imperfect Crystals", Nature 530 (7589), 202 (2016).
+<br>
+[2] Morgan, Ayyer, Barty, et al., Acta Cryst. A, 75, 25–40 (2019).
+<br>
+[3] Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
+
+
+
 ## Constraint satisfaction algorithms
 <img align="right" src="figs/res_algo.png" width="400">
 
 One of the main algorithms we use are called "iterative projection algorithms." These are dynamical systems that are able to find solutions to problems that can be formulated as multiple constraints. Phase retrieval is an example of a constraint satisfaction problem where the constraint in Fourier space is the measured Fourier magnitudes and the constraint in real-space are information about the object such as the fact that it is finite. We design algorithms, on paper and in the computer, to solve variations on the basic phase retrieval problem. We are also interested in other related challenges such as packing problems, and other constraint satisfaction problems.
 
-**Background reading**
+**Background Reading**
 <br>
 [1] Marchesini. "A unified evaluation of iterative projection algorithms for phase retrieval" _Review of Scientific Instruments_ **78**, 011301 (2007).
 <br>
