@@ -6,12 +6,14 @@ We develop new algorithms and computational methods to process and analyse X-ray
 <img align="right" src="figs/res_stp.png" width="400">
 
 ## Phasing from crystal defects
+<img align="right" src="figs/res_crystdisorder.png" width="400">
+
 Intensities between Bragg peaks can also arise from the deviation of a crystal's unit packing from their ideal lattice sites.
 
 
 
 ## Single particle imaging
-<img align="right" src="figs/res_spi_2.png" width="400">
+<img align="right" src="figs/res_spi.png" width="400">
 
 We are also interested in combining single particle X-ray data with data from other modalities such as electron and optics to investigate techniques for multi-modal imaging.
 
