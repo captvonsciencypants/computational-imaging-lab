@@ -6,8 +6,8 @@ My expertise and interest is in physics and programming and some of the resource
 ---
 
 # Jupyter Notebooks
-Some illustrative, inspirational and inventive ipython notebooks are maintained here.
-These were initiated when I helped organised the [Prickly Python](http://prickly-pythons.github.io/) meetings at Arizona State University where anyone interested can come along and learn about physics and Python.
+Some illustratively inventive inspirational ipython notebooks are maintained here.
+These notebooks were initiated when I was helping to organise the [Prickly Python](http://prickly-pythons.github.io/) meetings at Arizona State University where anyone interested can come along and learn about physics and Python.
 
 ## Python basics
 
@@ -20,7 +20,7 @@ These were initiated when I helped organised the [Prickly Python](http://prickly
 ---
 
 # COSC131 - Introduction to Programming for Engineers
-I recorded a series of ten lecture videos on numerical methods and algorithms for a Python programming course at the University of Canterbury for first year engineering students.
+I recorded a series of lecture videos on numerical methods and algorithms for a Python programming course at the University of Canterbury for first year engineering students.
 
 A sample is shown below.
 
