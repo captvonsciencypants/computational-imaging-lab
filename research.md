@@ -36,7 +36,10 @@ Useful diffraction signals can also arise due to deviations from an ideal crysta
 ## Single particle imaging
 <img align="right" src="figs/res_spi.png" width="250">
 
-We are also interested in combining single particle X-ray data with data from other modalities such as electron and optics to investigate techniques for multi-modal imaging.
+Imaging individual proteins in their native, solvated, uncrystallised state at physiological conditions is also possible with the increased X-ray brightness provided by XFELs. However, even under optimal conditions, current XFELs can only provide a few photons per diffraction pattern from single proteins. Other issues include slight differences between individual proteins, unknown orientations, variable incident X-ray intensity, detector artefacts.
+We would like to investigate and develop algorithms that are able to solve some, or even all, of these problems.
+
+We are also interested in combining single particle X-ray data with data from other imaging modalities such as electron and optics to try and build synergistic techniques for an integrative, multi-modal imaging framework.
 
 
 **Background Reading**
