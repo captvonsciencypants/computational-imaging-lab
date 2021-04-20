@@ -1,8 +1,8 @@
 # Publications
 
-External listings
-- Orcid
-- Google scholar
+External listings:
+- ORCID
+- Google Scholar
 
 | |  Peer-reviewed publications  | 
 |-|-|
