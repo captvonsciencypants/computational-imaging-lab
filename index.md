@@ -29,10 +29,11 @@ Check out our
 
 # Funding 
 Our work is supported by:
----
-R H T Bates Scholarship from the Royal Society of New Zealand Te Apārangi
----
-UC Doctoral Scholarship
----
-Travel Scholarship from the Canterbury Branch of the Royal Society of New Zealand Te Apārangi
----
+* UC Doctoral Scholarship
+* R H T Bates Postgraduate Scholarship from the Royal Society of New Zealand Te Apārangi
+* Travel Scholarship from the Canterbury Branch of the Royal Society of New Zealand Te Apārangi
+
+<img align="left" src="figs/logo_uc2.jpg" width="180">
+<img align="left" src="figs/logo_rs.jpg" width="200">
+<img align="left" src="figs/logo_rs_canty1.png" width="300">
+
