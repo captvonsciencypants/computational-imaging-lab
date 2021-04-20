@@ -22,7 +22,16 @@ External listings:
 
 |X. | Reconstruction of an object from diffraction intensities averaged over multiple object clusters  <br> <sub> **J. P. J. Chen**, R. D. Arnal, A. J. Morgan, R. J. Bean, K. R. Beyerlein, H. N. Chapman, P. J. Bones, R. P. Millane & R. A. Kirian  </sub> <br> <sub> [_Journal of Optics_, **18**, 114003 (2016)](https://doi.org/10.1088/2040-8978/18/11/114003) </sub>|
 
- 
+|X. | Phase retrieval for multiple objects from their averaged diffraction <br> <sub> R. P. Millane & **J. P. J. Chen** </sub> <br> <sub> [_J. Opt. Soc. Am. A_, **32**, pp 1317-1329 (2015)](https://doi.org/10.1364/josaa.32.001317) </sub>|
+
+|X. | Phase retrieval for multiple objects <br> <sub> R. P. Millane & **J. P. J. Chen** </sub> <br> <sub> [_Proc. SPIE 960008, Image reconstruction from incomplete data VIII_ (2015)](https://doi.org/10.1117/12.2187631) </sub>|
+
+|X. | Image reconstruction in serial femtosecond nanocrystallography using x-ray free-electron lasers <br> <sub> **J. P. J. Chen**, R. A. Kirian, K. R. Beyerlein, R. J. Bean, A. J. Morgan, O. M. Yefanov, R. D. Arnal, D. H. Wojtas, P. J. Bones, H. N. Chapman, J. C. H. Spence, R. P. Millane </sub> <br> <sub> [_Proc. SPIE 9600, Image Reconstruction from Incomplete Data VIII_, 960002 (2015)](https://doi.org/10.1117/12.2187610) </sub>|
+
+|X. | Aspects of direct phasing in femtosecond nanocrystallography <br> <sub> R. P. Millane & **J. P. J. Chen** </sub> <br> <sub> [_Phil. Trans. R. Soc. B_, **369**, 20130498 (2014)](https://doi.org/10.1098/rstb.2013.0498) </sub>|
+
+
+
 
 <br>
 
