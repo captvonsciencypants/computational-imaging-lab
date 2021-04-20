@@ -109,7 +109,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url(https://github.com/captvonsciencypants/computational-imaging-lab/blob/gh-pages/figs/bg1.png) no-repeat; //linear-gradient(150deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: url(https://github.com/captvonsciencypants/computational-imaging-lab/raw/gh-pages/figs/bg1.png); //linear-gradient(150deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
     padding: 5rem 6rem;
