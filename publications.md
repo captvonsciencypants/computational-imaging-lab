@@ -30,6 +30,21 @@ External listings:
 
 |X. | Aspects of direct phasing in femtosecond nanocrystallography <br> <sub> R. P. Millane & **J. P. J. Chen** </sub> <br> <sub> [_Phil. Trans. R. Soc. B_, **369**, 20130498 (2014)](https://doi.org/10.1098/rstb.2013.0498) </sub>|
 
+|X. | Diffraction by nanocrystals II <br> <sub>  **J. P. J. Chen** & R. P. Millane </sub> <br> <sub> [_J. Opt. Soc. Am. A_, **31**, pp 1730-1737 (2014)](https://doi.org/10.1364/josaa.31.001730) </sub>|
+
+|X. | Direct phasing in femtosecond nanocrystallography II. Phase retrieval <br> <sub>  **J. P. J. Chen**, J. C. H. Spence & R. P. Millane </sub> <br> <sub> [_Acta Cryst. A_, **70**, pp 154-161 (2014)](https://doi.org/10.1107/s2053273313032725) </sub>|
+
+|X. | Direct phasing in femtosecond nanocrystallography I. Diffraction characteristics <br> <sub>  **J. P. J. Chen**, J. C. H. Spence & R. P. Millane </sub> <br> <sub> [_Acta Cryst. A_, **70**, pp 143-153 (2014)](https://doi.org/10.1107/s2053273313032038) </sub>|
+
+|X. | Phase retrieval from crystalline diffraction averaged over several different unit cells <br> <sub>  **J. P. J. Chen**, R. A. Kirian, K. R. Beyerlein, R. J. Bean, H. N. Chapman, P. J. Bones & R. P. Millane </sub> <br> <sub> [_29th International Conference on Image and Vision Computing New Zealand_, (2014)](https://doi.org/10.1145/2683405.2683456) </sub>|
+
+|X. | Diffraction by nanocrystals <br> <sub> **J. P. J. Chen** and R. P. Millane </sub> <br> <sub> [_J. Opt. Soc. Am. A_, **30**, pp 2627-2634 (2013)](https://doi.org/10.1364/josaa.30.002627) </sub>|
+
+
+
+
+|X. | Phase retrieval in femtosecond X-ray nanocrystallography <br> <sub>  **J. P. J. Chen**, J. C. H. Spence & R. P. Millane </sub> <br> <sub> [_27th International Conference on Image and Vision Computing New Zealand_, (2012)](https://doi.org/10.1145/2425836.2425847) </sub>|
+
 
 
 
