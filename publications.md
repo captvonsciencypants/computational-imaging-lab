@@ -16,6 +16,14 @@ External listings:
 |X. | Flow-aligned, single-shot fiber diffraction using a femtosecond X-ray free-electron laser  <br> <sub> D. Popp, N. D. Loh, H. Zorgati, U. Ghoshdastider, L. T. Liow, M. I. Ivanova, M. Larsson, D. P. DePonte, R. Bean, K. R. Beyerlein, C. Gati, D. Oberthuer, D. Arnlund, G. Brändén, P. Berntsen, D. Cascio, L. M. G. Chavas, **J. P. J. Chen**, K. Ding, H. Fleckenstein, L. Gumprecht, R. Harimoorthy, E. Mossou, M. R. Sawaya, A. S. Brewster, J. Hattne, N. K. Sauter, M. Seibert, C. Seuring, F. Stellato, T. Tilp, D. S. Eisenberg, M. Messerschmidt, G. J. Williams, J. E. Koglin, L. Makowski, R. P. Millane, T. Forsyth, S. Boutet, T. A. White, A. Barty, H. N. Chapman, S. L. Chen, M. Liang, R. Neutze & R. C. Robinson </sub> <br> <sub> [_Cytoskeleton_, **74**, 472-481 (2017)](https://doi.org/10.1002/cm.21378) </sub>|
 |X. | Simultaneous retrieval of coherently illuminated defocused objects  <br> <sub> **J. P. J. Chen** & R. A. Kirian </sub> <br> <sub> [_32nd International Conference on Image and Vision Computing New Zealand_ pp. 1-5 (2017)](https://doi.org/10.1109/ivcnz.2017.8402481) </sub>|
 
+|X. | Phase retrieval in the presence of multiplicative noise  <br> <sub> **J. P. J. Chen** & R. A. Kirian </sub> <br> <sub> [_Proc. SPIE 10410, Unconventional and Indirect Imaging, Image Reconstruction, and Wavefront Sensing_ (2017)](https://doi.org/10.1117/12.2275182) </sub>|
+
+|X. | ASU Compact XFEL <br> <sub> W. S. Graves, **J. P. J. Chen**, P. Fromme, M. R. Holl, R. Kirian, L. E. Malin, K. E. Schmidt, J. Spence, M. Underhill, U. Weierstall, N. A. Zatsepin, C. Zhang, K.-H. Hong, D. E. Moncton, C. Limborg-Deprey, E. A. Nanni </sub> <br> <sub> [_38th International Free Electron Laser Conference_ (2017)](https://doi.org/10.18429/JACOW-FEL2017-TUB03) </sub>|
+
+|X. | Reconstruction of an object from diffraction intensities averaged over multiple object clusters  <br> <sub> **J. P. J. Chen**, R. D. Arnal, A. J. Morgan, R. J. Bean, K. R. Beyerlein, H. N. Chapman, P. J. Bones, R. P. Millane & R. A. Kirian  </sub> <br> <sub> [_Journal of Optics_, **18**, 114003 (2016)](https://doi.org/10.1088/2040-8978/18/11/114003) </sub>|
+
+ 
+
 <br>
 
 
