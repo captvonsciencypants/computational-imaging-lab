@@ -46,7 +46,7 @@ We are also interested in combining single particle X-ray data with data from ot
 ---
 
 ## Constraint satisfaction algorithms
-<img align="left" src="figs/res_algo.png" width="400">
+<img align="left" src="figs/res_algo.png" width="300">
 
 One of the main algorithms we use are called "iterative projection algorithms." These are dynamical systems that are able to find solutions to problems that can be formulated as multiple constraints. Phase retrieval is an example of a constraint satisfaction problem where the constraint in Fourier space is the measured Fourier magnitudes and the constraint in real-space are information about the object such as the fact that it is finite. We design algorithms, on paper and in the computer, to solve variations on the basic phase retrieval problem. We are also interested in other related challenges such as packing problems, and other constraint satisfaction problems.
 
