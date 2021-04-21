@@ -15,15 +15,15 @@ A selection of the things we have been imaging is shown below
 <p align="center">
   <img src="figs/index_0.png" width="550" />
 </p>
-They are (clockwise from the top left): a [Cathepsin B](https://en.wikipedia.org/wiki/Cathepsin_B) molecule; parts of an [aquaporin protein](https://pdb101.rcsb.org/motm/173); an optical image of a 3D printed nozzle used for X-ray free-electron laser experiments, an image of a [I3C molecule](https://doi.org/10.1107/S0907444908030266) showing a potential distribution of electrons after an x-ray pulse; a projection image of two [Photosystem I](https://pdb101.rcsb.org/motm/22) trimers packed in their unit cell; and a cross section of a [tobacco necrosis virus](https://www.rcsb.org/structure/1TNV).
+They are (clockwise from the top left): a [Cathepsin B](https://en.wikipedia.org/wiki/Cathepsin_B) molecule; parts of an [aquaporin protein](https://pdb101.rcsb.org/motm/173); an optical image of a 3D printed nozzle used for X-ray free-electron laser experiments, an image of a [I3C molecule](https://doi.org/10.1107/S0907444908030266) showing a potential distribution of electrons after an X-ray pulse; a projection image of two [Photosystem I](https://pdb101.rcsb.org/motm/22) trimers packed in their unit cell; and a cross section of a [tobacco necrosis virus](https://www.rcsb.org/structure/1TNV).
 
-Apart from the nozzle and the I3C molecule, the other images are all simulations which we use to test the algorithms we are developing. Hence, you can see that we focus on developing novel imaging methods to aid our fellow scientists and engineers from other fields to figure things out to get the techniques into practice. The methods we are currently working on are described in our [research](research.md) page.
+Apart from the nozzle and the I3C molecule, the other images are all simulations which we use to test the algorithms we are developing. Hence, you can see that we focus on developing novel imaging methods to aid our fellow scientists and engineers from other fields. The methods we are currently working on are described in our [research](research.md) page.
 
 We mainly use Python for our work.
 ```python
 print("hello world")
 ```
-You can find a collection of Python and other computer programming resources in our [Teaching](teaching.md) section.
+You can find a collection of Python and other computer programming resources in our [Teaching](teaching.md) page.
 
 
 
