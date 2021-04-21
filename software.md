@@ -7,8 +7,16 @@ Here you'll find links to software that we develope, or contribute to developing
 
 The documentation for reborn also contains [useful notes](https://kirianlab.gitlab.io/reborn/crystals.html) on the mathematics and the theory associated with X-ray diffraction.
 
-<img src="figs/software_reborn.png" width="300"> 
+To get started with reborn follow the installation instructions [here](https://kirianlab.gitlab.io/reborn/installation.html) and once you've obtained the package, you can simply import it as usual by
+
+```Python
+import reborn
+```
+
+<img src="figs/software_reborn.png" width="500"> 
+
 ---
+
 ## Reconstruction from projection images affected by Ewald curvature
 
 We published a paper in 2021 detailing an algorithm that is able to reconstruct a 3-dimensional object from 2-dimensional projection images affected by the Ewald sphere [1]. Such an algorithm is useful in cryo-electron microscopy where larger samples, higher resolution, or lower energy electron beams are desired, all of which contribute to the significance of the Ewald curvature.
