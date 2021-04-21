@@ -6,8 +6,8 @@ My expertise and interest is in physics and programming and some of the resource
 ---
 
 ## Jupyter Notebooks
-Some illustratively inventive ipython notebooks are maintained here.
-These notebooks were initiated when I was helping to organise the [Prickly Python](http://prickly-pythons.github.io/) meetings at Arizona State University where anyone interested can come along and learn about physics and Python.
+Some illustratively inventive ipython notebooks created by me are maintained here.
+These notebooks were initiated when I was organising the [Prickly Python](http://prickly-pythons.github.io/) meetings at Arizona State University where anyone interested can come along and learn about physics and Python.
 
 ### Python basics
 
@@ -33,12 +33,12 @@ The full series can be found here.
 
 ---
 
-## Extra teaching and training resources
+## Extra teaching and training resources on the web
 There are some great resources available out there, waiting for people to discover.
 I've collected of some of the best resources I've encountered over the years below in case others may find it useful too.
 
-1. [Best Practices for Scientific Computing](https://doi.org/10.1371/journal.pbio.1001745) by Wilson _et al._ - A nice article outlining many useful tips and strategies for writing good computer codes.
-2. https://www.nesi.org.nz/services/training - The New Zealand eScience Infrastructure designs, builds, and operates a specialised platform of shared high performance computing infrastructure in New Zealand. They often hold training courses and software carpentries for researchers at all levels of their career.
+1. ["Best Practices for Scientific Computing"](https://doi.org/10.1371/journal.pbio.1001745) by Wilson _et al._ - A nice article outlining many useful tips and strategies for writing good computer codes.
+2. [https://www.nesi.org.nz/services/training](https://www.nesi.org.nz/services/training) - The New Zealand eScience Infrastructure designs, builds, and operates a specialised platform of shared high performance computing infrastructure in New Zealand. They often hold training courses and software carpentries for researchers at all levels of their career.
 
 
 
