@@ -5,24 +5,24 @@ My expertise and interest is in physics and programming and some of the resource
 
 ---
 
-# Jupyter Notebooks
+## Jupyter Notebooks
 Some illustratively inventive ipython notebooks are maintained here.
 These notebooks were initiated when I was helping to organise the [Prickly Python](http://prickly-pythons.github.io/) meetings at Arizona State University where anyone interested can come along and learn about physics and Python.
 
-## Python basics
+### Python basics
 
-## Data processing
+### Data processing
 
-## Numerical methods
+### Numerical methods
 
-## Physics
+### Physics
 
 ---
 
-# COSC131
+## COSC131 - Introduction to Programming for Engineers
 <img align="left" src="figs/teaching_cosc131.png" width="150"> 
 
-COSC131 - Introduction to Programming for Engineers is a course started at the University of Canterbury in 2021. This course is taught almost entirely with pre-recorded videos and online quizzes. I recorded a series of lecture videos on numerical methods and algorithms consitituting the learning materials for week 10 of the course.
+COSC131 is a course that was started at the University of Canterbury (UC) in 2021 to teach Python to all first year engineering students. It was one of the largest course at UC with an enrolment number of approximately 1300 students. COSC131 is taught almost entirely with pre-recorded videos and online quizzes. I recorded a series of lecture videos on numerical methods and algorithms, consitituting the learning materials for week 10 of the course.
 
 A sample is shown below.
 
@@ -33,7 +33,7 @@ The full series can be found here.
 
 ---
 
-# Extra teaching and training resources
+## Extra teaching and training resources
 There are some great resources available out there, waiting for people to discover.
 I've collected of some of the best resources I've encountered over the years below in case others may find it useful too.
 
