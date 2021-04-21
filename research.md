@@ -26,11 +26,11 @@ We have developed algorithms that is able to do this in principle and are workin
 
 Crystals are regularly packed arrays of objects - usually. Sometimes there are deviations of the packings from an ideal lattice. These include things such as: 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  1. Translational disorder (packings are displaced randomly around the lattice points)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  1. Translational disorder (random displacements around lattice points)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. Substitutional disorder (some units making up the crystal are different than others)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. Substitutional disorder (units making up the crystal are different)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  3. Stacking faults (a sharp discontinuous change in the way molecules are packed through the crystal)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  3. Stacking faults (a discontinuous change in the way molecules are packed)
 
 When there are deviations of the packing from an ideal lattice, useful diffraction signals can arise. We are interested in developing algorithms to utilise these extra signals resulting from crystal defects to reconstruct the molecule that packs the crystal and recover statistical information about these defects. It turns out that the algorithm developed for imaging with small crystals can be adapted to imaging with certain kinds of disordered crystals.
 
@@ -45,25 +45,25 @@ Image above was part of N. Stander's thesis 2019.
 ---
 
 ## Single particle imaging
-<img align="right" src="figs/res_spi.png" width="250">
+<img align="right" src="figs/res_spi3.png" width="250"> 
 
-Imaging individual proteins in their native, solvated, uncrystallised state at physiological conditions is also possible with the increased X-ray brightness provided by XFELs. However, even under optimal conditions, current XFELs can only provide a few photons per diffraction pattern from single proteins. Other issues include slight differences between individual proteins, unknown orientations, variable incident X-ray intensity, detector artefacts.
+Imaging individual proteins in their native, uncrystallised state at physiological conditions is also possible with the increased X-ray brightness provided by XFELs. However, even under optimal conditions, current XFELs can only provide a few photons per diffraction pattern from single proteins. Some of the other pressing issues include slight differences between individual proteins, unknown particle orientations, variable incident X-ray intensity and detector artefacts.
 We would like to investigate and develop algorithms that are able to solve some, or even all, of these problems.
 
 We are also interested in combining single particle X-ray data with data from other imaging modalities such as electron and optics to try and build synergistic techniques for an integrative, multi-modal imaging framework.
 
 **Background Reading**
-1. Loh and Elser, Phys. Rev. E, 80, 026705 (2009).
-2. Ekeberg, Svenda, Abergel et al., Phys. Rev. Lett., 114, 098102 (2015).
-3. Donatelli, Sethian and Zwart, PNAS, 114, 7222–7227 (2017).
-4. Ayyer, Optica 7, 593–601 (2020).
+1. Loh and Elser, "Reconstruction algorithm for single-particle diffraction imaging experiments", _Phys. Rev. E_, **80**, 026705 (2009).
+2. Ekeberg, Svenda, Abergel _et al._, "Three-Dimensional Reconstruction of the Giant Mimivirus Particle with an X-Ray Free-Electron Laser", _Phys. Rev. Lett._, **114**, 098102 (2015).
+3. Donatelli, Sethian and Zwart, "Reconstruction from limited single-particle diffraction data via simultaneous determination of state, orientation, intensity, and phase", _PNAS_, **114**, 7222–7227 (2017).
+4. Ayyer, "Reference-enhanced x-ray single-particle imaging", _Optica_ **7**, 593–601 (2020).
 
 ---
 
 ## Constraint satisfaction algorithms
 <img align="left" src="figs/res_algo.png" width="300">
 
-One of the main algorithms we use are called "iterative projection algorithms." These are dynamical systems that are able to find solutions to problems that can be formulated as multiple constraints. Phase retrieval is an example of a constraint satisfaction problem where the constraint in Fourier space is the measured Fourier magnitudes and the constraint in real-space are information about the object such as the fact that it is finite. We design algorithms, on paper and in the computer, to solve variations on the basic phase retrieval problem. We are also interested in other related challenges such as packing problems, and other constraint satisfaction problems.
+One of the main algorithms we use are called "iterative projection algorithms." These are dynamical systems that are able to find solutions to problems that can be formulated as multiple constraints. Phase retrieval is an example of a constraint satisfaction problem where the constraint in Fourier space is the measured Fourier magnitudes and the constraint in real-space are information about the object such as the fact that it is finite. We design algorithms, with mathematics on paper and writing programs in the computer, to solve variations on the basic phase retrieval problem. We are also interested in other related challenges such as packing problems, optimisation and search algorithms, all of which can be formulated as constraint satisfaction problems.
 
 **Background Reading**
 1. Marchesini. "A unified evaluation of iterative projection algorithms for phase retrieval" _Review of Scientific Instruments_ **78**, 011301 (2007).
