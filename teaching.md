@@ -34,15 +34,13 @@ The full series can be found here.
 
 ---
 
-# Teaching and training resources from other people
-There are some great resources out there, waiting for people to discover.
-I've collection of some of the best resources I've encountered in case others may find it useful too
+# Extra teaching and training resources
+There are some great resources available out there, waiting for people to discover.
+I've collected of some of the best resources I've encountered over the years below in case others may find it useful too.
 
-A nice article outlining many useful tips and strategies for writing good computer codes
-[Best Practices for Scientific Computing](https://doi.org/10.1371/journal.pbio.1001745)
+1. [Best Practices for Scientific Computing](https://doi.org/10.1371/journal.pbio.1001745) by Wilson _et al._ - A nice article outlining many useful tips and strategies for writing good computer codes.
+2. https://www.nesi.org.nz/services/training - The New Zealand eScience Infrastructure designs, builds, and operates a specialised platform of shared high performance computing infrastructure in New Zealand. They often hold training courses and software carpentries for researchers at all levels of their career.
 
-The New Zealand eScience Infrastructure often holds 
-https://www.nesi.org.nz/
 
 
 
