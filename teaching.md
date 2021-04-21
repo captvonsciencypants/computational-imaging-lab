@@ -37,6 +37,11 @@ The full series can be found here.
 There are some great resources available out there, waiting for people to discover.
 I've collected of some of the best resources I've encountered over the years below in case others may find it useful too.
 
+### Physics
+1. David Tong at the University of Cambridge maintains [a set of wonderful introductory notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html) covering every topic in theoretical physics from classical mechanics to quantum field theory.
+2. The [New Zealand Young Physicist tournament](https://iypt.org.nz/) is a competition for high school students where teams of 3 to many students work together to investigate a set of simple but interesting everyday physics problems. The problems are a great resources to learn from. 
+
+### Programming
 1. ["Best Practices for Scientific Computing"](https://doi.org/10.1371/journal.pbio.1001745) by Wilson _et al._ - A nice article outlining many useful tips and strategies for writing good computer codes.
 2. [https://www.nesi.org.nz/services/training](https://www.nesi.org.nz/services/training) - The New Zealand eScience Infrastructure designs, builds, and operates a specialised platform of shared high performance computing infrastructure in New Zealand. They often hold training courses and software carpentries for researchers at all levels of their career.
 
