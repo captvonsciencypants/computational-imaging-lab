@@ -3,10 +3,11 @@ Here you'll find links to software that we develope, or contribute to developing
 
 ---
 ## Reborn
-The [reborn](https://kirianlab.gitlab.io/reborn/index.html) Python package contains utilities for the simulation and analysis of X-ray diffraction under the Born approximation.
+[reborn](https://kirianlab.gitlab.io/reborn/index.html) is a Python package containing utilities for simulating and analysing X-ray diffraction under the Born approximation. The reborn package also contains fast signal processing routines for tasks such as peak detection and signal-to-noise calculation. These routines are implemented using Fortran and interfaced with Python via the f2py module from numpy.
 
-The documentation for reborn also contains useful notes on the mathematics and the theory associated with X-ray diffraction.
+The documentation for reborn also contains [useful notes](https://kirianlab.gitlab.io/reborn/crystals.html) on the mathematics and the theory associated with X-ray diffraction.
 
+<img src="figs/software_reborn.png" width="300"> 
 ---
 ## Reconstruction from projection images affected by Ewald curvature
 
