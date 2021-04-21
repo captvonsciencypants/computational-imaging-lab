@@ -12,7 +12,7 @@ We work on imaging tiny objects using the computer as a lens. These tiny objects
 We develop the methods to visualise these objects and collaborate with biologists, chemists, engineers and physicists to achieve our ultimiate goal of helping to cure diseases, engineer a more sustainable future, and increase our understanding of nature herself.
 
 A gallery of images of the things we have been working on is shown below.
-<img src="figs/index0.png" width="600">
+<img src="figs/index_0.png" width="600">
 
 
 
