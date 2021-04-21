@@ -7,11 +7,11 @@ We develop new algorithms and computational methods to process and analyse X-ray
 ## Imaging with small crystals
 <img align="right" src="figs/res_stp.png" width="300">
 
-Crystals are packings of objects in a regular array. Among many other advantages, they are useful for increasing the diffraction signal from small objects. However the use of crystals result in signals being concentrated in a way such that information about the structure of the molecule is lost and need to be restored by running additional experiments or making assumptions.
+Crystals are packings of objects in a regular array. Among many other advantages, they are useful for increasing the diffraction signal from small objects. However the use of large crystals result in signals being concentrated in a way such that there is insufficient information to reconstruct the structure of the packed molecules.
 
-The recent development of a new type of X-ray source called the X-ray free-electron laser (XFEL) provides X-rays with unprecedented brightness, coherence and short duration pulses. These unique properties of XFELs have allowed very small crystals, only a few repeating units across, to be used, resulting in new, measurable, signals from the coherent illumination of the entire crystal. The extra signals enable the possibility of solving for the structure of the molecules directly from the diffracted intensities.
+The recent development of a new type of X-ray source called the X-ray free-electron laser (XFEL) provides X-rays with unprecedented brightness, coherence and short duration pulses. These unique properties of XFELs have allowed very small crystals, only a few repeating units across, to be used, resulting in new, measurable, signals from the coherent illumination of the entire crystal. The extra signals enable the possibility of solving for the structure of the molecules directly from the diffracted intensity itself.
 
-We have developed an algorithm that is able to do this in principle (Chen, 2019) and are working on applying the algorithm to experimental data.
+We have developed algorithms that is able to do this in principle and are working on applying the algorithms to experimental data.
 
 **Background Reading**
 1. Elser, "Direct phasing of nanocrystal diffraction", _Acta Cryst. A_, **69**, 559–569 (2013).
