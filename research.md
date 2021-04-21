@@ -22,22 +22,26 @@ We have developed algorithms that is able to do this in principle and are workin
 ---
 
 ## Imaging with disordered crystals
-<img align="left" src="figs/res_crystdisorder2b.png" width="250">
+<img align="left" src="figs/res_crystdisorder2b.png" width="280">
 
 Crystals are regularly packed arrays of objects - usually. Sometimes there are deviations of the packings from an ideal lattice. These include things such as: 
-* Translational disorder (packings are displaced randomly around the lattice points)
-* Substitutional disorder (some units making up the crystal are different than others)
-* Stacking faults (a sharp discontinuous change in the way molecules are packed through the crystal)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  1. Translational disorder (packings are displaced randomly around the lattice points)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. Substitutional disorder (some units making up the crystal are different than others)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  3. Stacking faults (a sharp discontinuous change in the way molecules are packed through the crystal)
 
 When there are deviations of the packing from an ideal lattice, useful diffraction signals can arise. We are interested in developing algorithms to utilise these extra signals resulting from crystal defects to reconstruct the molecule that packs the crystal and recover statistical information about these defects. It turns out that the algorithm developed for imaging with small crystals can be adapted to imaging with certain kinds of disordered crystals.
 
-Image to the left was part of N. Stander's thesis 2019.
+Image above was part of N. Stander's thesis 2019.
 
 **Background Reading**
 1. Ayyer, Yefanov Oberthür, _et al._, "Macromolecular Imaging with Imperfect Crystals", _Nature_, **530**, 202 (2016).
 2. Morgan, Ayyer, Barty, _et al._, "Ab initio phasing of the diffraction of crystals with translational disorder ", _Acta Cryst. A_, **75**, 25–40 (2019).
 3. Stander, "Serial femtosecond crystallography data analysis of Photosystem II", PhD Thesis, ASU (2019).
 4. Chen, Donatelli, Schmidt and Kirian. "Shape transform phasing of edgy nanocrystals", _Acta Cryst. A_, **75**, 239–259 (2019).
+
 ---
 
 ## Single particle imaging
