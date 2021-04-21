@@ -9,22 +9,19 @@ We work on imaging tiny objects using the computer as a lens. These tiny objects
 * Nanoparticles
 * Microscopic structures
 
-Our ultimate goal of visualising these objects is to help cure diseases, engineer a more sustainable future, and increase our understanding of nature herself.
-
-The methods we are currently working on to achieve this goal are
+We develop the methods to visualise these objects and collaborate with biologists, chemists, engineers and physicists to achieve our ultimiate goal of helping to cure diseases, engineer a more sustainable future, and increase our understanding of nature herself.
 
 
+The methods we are currently working on to achieve this goal are described on the [research](research.md) page 
 
-We mainly use Python
+
+
+We mainly use Python for our work
 ```python
 print('hello world')
 ```
+You can find a collection of resources in the [Teaching](teaching.md) section of this website.
 
-
-
-Check out our 
-[research](research.md) page for more details.
-[publications](publications.md)
 
 
 # Funding 
@@ -33,9 +30,9 @@ Our work is supported by:
 * R H T Bates Postgraduate Scholarship from the Royal Society of New Zealand Te Apārangi
 * Travel Scholarship from the Canterbury Branch of the Royal Society of New Zealand Te Apārangi
 
-<img align="left" src="figs/logo_uc2.jpg" width="180">
-<img align="left" src="figs/logo_rs.jpg" width="200">
-<img align="left" src="figs/logo_rs_canty1.png" width="300">
+<img align="left" src="figs/logo_uc2.jpg" width="130">
+<img align="left" src="figs/logo_rs.jpg" width="150">
+<img align="left" src="figs/logo_rs_canty1.png" width="250">
 
 <br>
 <br>
