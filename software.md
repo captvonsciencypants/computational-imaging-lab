@@ -13,7 +13,7 @@ To get started with reborn follow the installation instructions [here](https://k
 import reborn
 ```
 
-<img src="figs/software_reborn.png" width="500"> 
+<img src="figs/software_reborn.png" width="900"> 
 
 ---
 
