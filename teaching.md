@@ -19,9 +19,8 @@ These notebooks were initiated when I was helping to organise the [Prickly Pytho
 
 ---
 
-# COSC131
-# Introduction to Programming for Engineers
-<img align="left" src="figs/teaching_cosc131.png" width="200"> 
+# COSC131 - <sub>Introduction to Programming for Engineers </sub>
+<img align="left" src="figs/teaching_cosc131.png" width="150"> 
 
 I recorded a series of lecture videos on numerical methods and algorithms for a Python programming course at the University of Canterbury for first year engineering students.
 
