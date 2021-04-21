@@ -65,7 +65,7 @@ a {
   display: inline-block; /* inline-block */
   margin-bottom: -1rem; // 1rem
   margin-left: 32rem; // Didn't exist
-  margin-top: 15rem; // Didn't exist
+  margin-top: 16rem; // Didn't exist
   color: rgba(243, 236, 122, 0.7); //rgba(255, 255, 255, 0.7);
   background-color: rgba(255, 255, 255, 0.28); //rgba(255, 255, 255, 0.08);
   border-color: rgba(255, 255, 255, 0.2);
@@ -74,6 +74,7 @@ a {
   border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
   font-weight: bold; // Didn't exist
+  font-size: 18px; // Didn't exist
 
   &:hover {
     color: rgba(255, 255, 255, 0.8);
