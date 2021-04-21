@@ -7,7 +7,7 @@ We develop new algorithms and computational methods to process and analyse X-ray
 ## Imaging with small crystals
 <img align="right" src="figs/res_stp.png" width="300">
 
-Crystals are packings of objects in a regular array. They are useful for increasing the diffraction signal from small objects, among many other advantages. However the use of crystals result in signals being concentrated in a way that information about the structure of the molecule is lost and need to be restored in the reconstruction process in additional ways.  
+Crystals are packings of objects in a regular array. Among many other advantages, they are useful for increasing the diffraction signal from small objects. However the use of crystals result in signals being concentrated in a way such that information about the structure of the molecule is lost and need to be restored by running additional experiments or making assumptions.
 
 The recent development of a new type of X-ray source called the X-ray free-electron laser (XFEL) provides X-rays with unprecedented brightness, coherence and short duration pulses. These unique properties of XFELs have allowed very small crystals, only a few repeating units across, to be used, resulting in new, measurable, signals from the coherent illumination of the entire crystal. The extra signals enable the possibility of solving for the structure of the molecules directly from the diffracted intensities.
 
