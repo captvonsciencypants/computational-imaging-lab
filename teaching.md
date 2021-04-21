@@ -19,10 +19,10 @@ These notebooks were initiated when I was helping to organise the [Prickly Pytho
 
 ---
 
-# COSC131 - <sub>Introduction to Programming for Engineers </sub>
+# COSC131
 <img align="left" src="figs/teaching_cosc131.png" width="150"> 
 
-I recorded a series of lecture videos on numerical methods and algorithms for a Python programming course at the University of Canterbury for first year engineering students.
+COSC131 - Introduction to Programming for Engineers is a course started at the University of Canterbury in 2021. This course is taught almost entirely with pre-recorded videos and online quizzes. I recorded a series of lecture videos on numerical methods and algorithms consitituting the learning materials for week 10 of the course.
 
 A sample is shown below.
 
