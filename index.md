@@ -11,8 +11,11 @@ We work on imaging tiny objects using the computer as a lens. These tiny objects
 
 We develop the methods to visualise these objects and collaborate with biologists, chemists, engineers and physicists to achieve our ultimiate goal of helping to cure diseases, engineer a more sustainable future, and increase our understanding of nature herself.
 
-A sample of the things we have been working on is shown below.
-<img align="center" src="figs/index_0.png" width="550">
+A selection of the things we have been imaging on is shown below.
+<p align="center">
+  <img src="figs/index_0.png" width="550" />
+</p>
+
 
 The methods we are currently working on are described on the [research](research.md) page 
 
@@ -31,5 +34,7 @@ Our work is supported by:
 * R H T Bates Postgraduate Scholarship from the Royal Society of New Zealand Te Apārangi
 * Travel Scholarship from the Canterbury Branch of the Royal Society of New Zealand Te Apārangi
 
+<p align="center">
 <img align="center" src="figs/funding.png" width="600">
+</p>
 
