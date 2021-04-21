@@ -4,28 +4,34 @@ We develop new algorithms and computational methods to process and analyse X-ray
 
 ---
 
-## Shape-transform phasing
+## Imaging with small crystals
 <img align="right" src="figs/res_stp.png" width="300">
 
-The recent development of a new type of X-ray source called the X-ray free-electron laser (XFEL) provides X-rays with unprecedented brightness, coherence and short duration pulses. These unique properties of XFELs have allowed very small crystals to be used, resulting in new measurable signals from the coherent illumination of the entire crystal. The extra signals enable the possibility of determining the structure of the molecules directly from the diffracted intensities.
+Crystals are packings of objects in a regular array. They are useful for increasing the diffraction signal from small objects, among many other advantages. However the use of crystals result in signals being concentrated in a way that information about the structure of the molecule is lost and need to be restored in the reconstruction process in additional ways.  
+
+The recent development of a new type of X-ray source called the X-ray free-electron laser (XFEL) provides X-rays with unprecedented brightness, coherence and short duration pulses. These unique properties of XFELs have allowed very small crystals, only a few repeating units across, to be used, resulting in new, measurable, signals from the coherent illumination of the entire crystal. The extra signals enable the possibility of solving for the structure of the molecules directly from the diffracted intensities.
+
+We have developed an algorithm that is able to do this in principle (Chen, 2019) and are working on applying the algorithm to experimental data.
 
 **Background Reading**
-1. Elser, Acta Cryst. A, 69, 559–569 (2013).
-2. Chen, Spence and Millane. Acta Cryst. A, 70, 143–153 (2014).
-3. Kirian, Bean, Beyerlein, et al., Phys. Rev. X, 5, 011015 (2015).
-4. Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
+1. Elser, "Direct phasing of nanocrystal diffraction", _Acta Cryst. A_, **69**, 559–569 (2013).
+2. Chen, Spence and Millane, "Direct phasing in femtosecond nanocrystallography I. Diffraction characteristics", _Acta Cryst. A_, **70**, 143–153 (2014).
+3. Kirian, Bean, Beyerlein, et al., "Direct Phasing of Finite Crystals Illuminated with a Free-Electron Laser", _Phys. Rev. X_, **5**, 011015 (2015).
+4. Chen, Donatelli, Schmidt and Kirian. "Shape transform phasing of edgy nanocrystals", _Acta Cryst. A_, **75**, 239–259 (2019).
 
 ---
 
-## Phasing from crystal defects
+## Imaging with disordered crystals
 <img align="left" src="figs/res_crystdisorder.png" width="250">
 
-Useful diffraction signals can also arise due to deviations from an ideal crystal lattice. These deviations include things such as translational disoder, substitutional disorder, and stacking faults. We are interested in developing algorithms that utilise these defects to reconstruct the molecule and recover statistical information about those defects.
+Useful diffraction signals can also arise from a crystal due to deviations of the unit packing from its ideal lattice. These deviations result in things such as translational disoder (unit packings are displaced randomly around the lattice point), substitutional disorder (some unit packings are different than others), and stacking faults (a sharp discontinuous change through the crystal).
+
+We are interested in developing algorithms that utilise these defects to reconstruct the molecule and recover statistical information about these defects.
 
 **Background Reading**
-1. Ayyer, Yefanov Oberthür, et al. "Macromolecular Imaging with Imperfect Crystals", Nature 530 (7589), 202 (2016).
-2. Morgan, Ayyer, Barty, et al., Acta Cryst. A, 75, 25–40 (2019).
-3. Chen, Donatelli, Schmidt and Kirian. Acta Cryst. A, 75, 239–259 (2019).
+1. Ayyer, Yefanov Oberthür, _et al._, "Macromolecular Imaging with Imperfect Crystals", _Nature_, **530**, 202 (2016).
+2. Morgan, Ayyer, Barty, _et al._, "Ab initio phasing of the diffraction of crystals with translational disorder ", _Acta Cryst. A_, **75**, 25–40 (2019).
+3. Chen, Donatelli, Schmidt and Kirian. "Shape transform phasing of edgy nanocrystals", _Acta Cryst. A_, **75**, 239–259 (2019).
 
 ---
 
