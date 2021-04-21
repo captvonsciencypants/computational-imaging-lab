@@ -26,11 +26,11 @@ We have developed algorithms that is able to do this in principle and are workin
 
 Crystals are regularly packed arrays of objects - usually. Sometimes there are deviations of the packings from an ideal lattice. These include things such as: 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  1. Translational disorder (random displacements around lattice points)
+&nbsp;&nbsp;&nbsp;&nbsp;  1. Translational disorder (displacements around lattice points)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. Substitutional disorder (units making up the crystal are different)
+&nbsp;&nbsp;&nbsp;&nbsp;  2. Substitutional disorder (different units making up the crystal)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  3. Stacking faults (a discontinuous change in the way molecules are packed)
+&nbsp;&nbsp;&nbsp;&nbsp;  3. Stacking faults (a discontinuous change in the packing)
 
 When there are deviations of the packing from an ideal lattice, useful diffraction signals can arise. We are interested in developing algorithms to utilise these extra signals resulting from crystal defects to reconstruct the molecule that packs the crystal and recover statistical information about these defects. It turns out that the algorithm developed for imaging with small crystals can be adapted to imaging with certain kinds of disordered crystals.
 
@@ -63,7 +63,7 @@ We are also interested in combining single particle X-ray data with data from ot
 ## Constraint satisfaction algorithms
 <img align="left" src="figs/res_algo.png" width="300">
 
-One of the main algorithms we use are called "iterative projection algorithms." These are dynamical systems that are able to find solutions to problems that can be formulated as multiple constraints. Phase retrieval is an example of a constraint satisfaction problem where the constraint in Fourier space is the measured Fourier magnitudes and the constraint in real-space are information about the object such as the fact that it is finite. We design algorithms, with mathematics on paper and writing programs in the computer, to solve variations on the basic phase retrieval problem. We are also interested in other related challenges such as packing problems, optimisation and search algorithms, all of which can be formulated as constraint satisfaction problems.
+One of the main algorithms we use are called "iterative projection algorithms." These are dynamical systems that are able to find solutions to problems that can be formulated as multiple constraints. Phase retrieval is an example of a constraint satisfaction problem where the constraint in Fourier space is the measured Fourier magnitudes and the constraint in real-space are information about the object such as the fact that it is finite. We design algorithms, with mathematics on paper and writing programs in the computer, to solve variations on the basic phase retrieval problem. We are also interested in other related challenges such as packing problems, numerical optimisation and search algorithms, all of which can be formulated as constraint satisfaction problems.
 
 **Background Reading**
 1. Marchesini. "A unified evaluation of iterative projection algorithms for phase retrieval" _Review of Scientific Instruments_ **78**, 011301 (2007).
