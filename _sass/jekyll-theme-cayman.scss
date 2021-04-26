@@ -85,6 +85,7 @@ a {
 
   + .btn {
     margin-left: 0.0rem; /* Spacing between buttons on the left of each button */
+    margin-right: 0.0rem; /* Spacing between buttons on the right of each button */
   }
 
   @include large {
