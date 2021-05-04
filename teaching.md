@@ -14,6 +14,7 @@ These notebooks were initiated when I was organising the [Prickly Python](http:/
 ### Data processing
 
 ### Numerical methods
+[Solving differential equations](https://github.com/captvonsciencypants/teaching/blob/main/Differential%20Equations.ipynb)
 
 ### Physics
 
