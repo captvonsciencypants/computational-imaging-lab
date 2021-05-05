@@ -10,13 +10,14 @@ Some illustratively inventive ipython notebooks created by me are maintained her
 These notebooks were initiated when I was organising the [Prickly Python](http://prickly-pythons.github.io/) meetings at Arizona State University where anyone interested can come along and learn about physics and Python.
 
 ### Python basics
+* [If, else, for](https://github.com/captvonsciencypants/teaching/blob/main/if%2C%20else%2C%20for.ipynb)
 
 ### Data processing
 
 ### Numerical methods
 * [Solving differential equations](https://github.com/captvonsciencypants/teaching/blob/main/Differential%20Equations.ipynb)
-* [Integration]
-* [Monte Carlo methods I]
+* [Integration](https://github.com/captvonsciencypants/teaching/blob/main/Integration.ipynb)
+* [Monte Carlo methods I](https://github.com/captvonsciencypants/teaching/blob/main/Monte%20Carlo%20I.ipynb)
 
 ### Physics
 
