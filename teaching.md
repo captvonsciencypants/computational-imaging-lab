@@ -10,7 +10,7 @@ Some illustratively inventive ipython notebooks created by me are maintained her
 These notebooks were initiated when I was organising the [Prickly Python](http://prickly-pythons.github.io/) meetings at Arizona State University where anyone interested can come along and learn about physics and Python.
 
 ### Python basics
-* [If, else, for](https://github.com/captvonsciencypants/teaching/blob/main/if%2C%20else%2C%20for.html)
+* [If, else, for](https://htmlpreview.github.io/?https://github.com/captvonsciencypants/teaching/blob/main/if%2C%20else%2C%20for.html)
 
 ### Data processing
 
