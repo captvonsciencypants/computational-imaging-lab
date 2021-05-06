@@ -15,9 +15,9 @@ These notebooks were initiated when I was organising the [Prickly Python](http:/
 ### Data processing
 
 ### Numerical methods
-* [Solving differential equations](https://github.com/captvonsciencypants/teaching/blob/main/Differential%20Equations.ipynb)
-* [Integration](https://github.com/captvonsciencypants/teaching/blob/main/Integration.ipynb)
-* [Monte Carlo methods I](https://github.com/captvonsciencypants/teaching/blob/main/Monte%20Carlo%20I.ipynb)
+* [Solving differential equations](https://htmlpreview.github.io/?https://github.com/captvonsciencypants/teaching/blob/main/Differential%20Equations.html)
+* [Integration](https://htmlpreview.github.io/?https://github.com/captvonsciencypants/teaching/blob/main/Integration.html)
+* [Monte Carlo methods I](https://htmlpreview.github.io/?https://raw.githubusercontent.com/captvonsciencypants/teaching/main/Monte%20Carlo%20I.html)
 
 ### Physics
 
