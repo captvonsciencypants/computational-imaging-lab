@@ -29,8 +29,9 @@ These notebooks were initiated when I was organising the [Prickly Python](http:/
 [COSC131](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=COSC131&occurrence=21S2(C)&year=2021) is a course that was started at the University of Canterbury (UC) in 2021 to teach Python to all first year engineering students. It was one of the largest course at UC with an enrolment number of approximately 1300 students. COSC131 is taught almost entirely with pre-recorded videos and online quizzes. I recorded a series of lecture videos on numerical methods and algorithms, consitituting the learning materials for week 10 of the course.
 
 A sample is shown below.
+[COVID-19 Least squares fitting application](https://www.youtube.com/watch?v=i-adjQFhy4k&list=PLGSclDkUF8aO_Wn5N8BnpYuEjKuFeCSe2&index=11)
 
-The full series can be found here.
+The full series can be found [here](https://www.youtube.com/playlist?list=PLGSclDkUF8aO_Wn5N8BnpYuEjKuFeCSe2).
 
 
 
