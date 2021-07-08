@@ -49,6 +49,8 @@ I've collected of some of the best resources I've encountered over the years bel
 ### Programming
 1. ["Best Practices for Scientific Computing"](https://doi.org/10.1371/journal.pbio.1001745) by Wilson _et al._ - A nice article outlining many useful tips and strategies for writing good computer codes.
 2. [https://www.nesi.org.nz/services/training](https://www.nesi.org.nz/services/training) - The New Zealand eScience Infrastructure designs, builds, and operates a specialised platform of shared high performance computing infrastructure in New Zealand. They often hold training courses and software carpentries for researchers at all levels of their career.
+3. [Matplotlib information sheet](https://github.com/matplotlib/cheatsheets).
+4. [vi command reference](http://ex-vi.sourceforge.net/vi.html).
 
 
 
