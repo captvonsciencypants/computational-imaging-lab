@@ -13,7 +13,7 @@ These notebooks were initiated when I was organising the [Prickly Python](http:/
 * [If, else, for](https://htmlpreview.github.io/?https://github.com/captvonsciencypants/teaching/blob/main/if%2C%20else%2C%20for.html)
 
 ### Data processing
-* [test](https://colab.research.google.com/drive/1bcJOzGVVsN7VbmL1CJoXXVLOn2E7cL2_?usp=sharing)
+* [Fitting data](https://colab.research.google.com/drive/1UQHh_nSDXlBJF3XWxNKGgkTx2nFyCsUU?usp=sharing)
 
 ### Numerical methods
 * [Solving differential equations](https://htmlpreview.github.io/?https://github.com/captvonsciencypants/teaching/blob/main/Differential%20Equations.html)
